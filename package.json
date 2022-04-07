@@ -1,0 +1,16 @@
+{
+  "name": "Caravan",
+  "version": "1.0.0",
+  "description": "Gulpfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aiming Inc.",
+  "license": "ISC",
+  "devDependencies": {
+    "chromatic": "^6.5.3",
+    "storybook": "^6.4.20"
+  }
+}
